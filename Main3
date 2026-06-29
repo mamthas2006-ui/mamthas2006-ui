@@ -1,0 +1,23 @@
+import java.util.HashMap;
+
+public class Main3 {
+    public static void main(String[] args) {
+        HashMap<Integer, String> map = new HashMap<>();
+
+        // Add values
+        map.put(1, "Java");
+        map.put(2, "Python");
+
+        // Get value
+        System.out.println(map.get(1)); // Java
+
+        // Check key exists?
+        System.out.println(map.containsKey(2)); // true
+
+        // Remove key
+        map.remove(2);
+
+        // Print full map
+        System.out.println(map); // {1=Java}
+    }
+}
