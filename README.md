@@ -113,7 +113,7 @@ To become a Software Engineer in a Top Product-Based Company.
 # 🌍 Connect with Me
 
 📧 Email:
-your-email@gmail.com
+your-mamtha.s2006@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/your-linkedin
